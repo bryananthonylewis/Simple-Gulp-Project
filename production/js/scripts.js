@@ -1,1 +1,1 @@
-function test(){console.log("test is running")}$(document).ready(function(){$(document).foundation(),console.log("dom loaded"),test(),$(".row").fadeIn("fast")});
+function test(){}$(document).ready(function(){$(document).foundation(),test(),$(".row").fadeIn("fast")});

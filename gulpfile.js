@@ -26,7 +26,7 @@ var gulp = require('gulp'),
     IMGdest = 'production/images/';
 
     // Enviorment NODE_ENV is production or development
-    env = process.env.NODE_ENV || 'development';
+    env = process.env.NODE_ENV || 'production';
 
     if (env==='development') {
         // set variables based on enviorment == development
