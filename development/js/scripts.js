@@ -3,7 +3,7 @@ this is a multi line comment... testing
  */
 function test() {
     console.log('test is running');
-    console.log('change has been made')
+    console.log('change has been made');
 } // end function test
 
 
